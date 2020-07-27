@@ -24,7 +24,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color: green;
+    background-color: darkcyan;
     color: white;
     font-size: 1.8rem;
     border: 1px solid white; 
@@ -38,10 +38,10 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color: green;
-    color: white;
+    background-color: darkcyan;
+    color: pink;
     font-size: 1.8rem;
-    border: 1px solid white; 
+    border: 1px solid pink; 
 }
 
 .clear-button:hover, .add-content-button:hover, .eval-button:hover {
